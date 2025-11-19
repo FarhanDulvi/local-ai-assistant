@@ -1,6 +1,6 @@
 # Local AI Assistant
 
-A fully offline, local AI assistant powered by Gemma 3 (via Ollama), Streamlit, and ChromaDB.
+A fully offline, local AI assistant powered by Gemma 3 - 1B Parameter (via Ollama), Streamlit, and ChromaDB.
 
 ## Features
 - **Local & Private**: No data leaves your device.
